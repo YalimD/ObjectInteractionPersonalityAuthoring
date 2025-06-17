@@ -1,4 +1,4 @@
-# ObjectInteractionPersonalityAuthoring
+# Exploring Personality in Human-Object Interactions
 
 In this study, we explore the personality expression of 3D object interaction sequences via motion augmentation and neural networks.
 
